@@ -32,7 +32,7 @@ com clareza o que deve ser feito e em que ordem.
 
 ## 4. Objetivo do teste
 
-Descobrir se um operador de central de monitoramento () usuário real do sistema) consegue
+Descobrir se um operador de central de monitoramento (usuário real do sistema) consegue
 compreender o propósito da tela e executar o login de forma autônoma, sem ambiguidades ou
 necessidade de suporte externo.
 
